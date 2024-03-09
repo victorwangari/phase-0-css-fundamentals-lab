@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  
+  
+}
+.logo, .feature{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(201, 188, 188);
+ 
+}
+.feature img{
+  width: 900px;
+  height: 500px;
+
+
+}
+.feaure p{
+  text-align: center;
+  width: 800px;
+
+}
+.footer{
+  display: flex;
+  width: 100%;
+  background-color: red;
+  height: auto;
+
+
+}
+.contact, .Correspondence, .links, .follow{
+  margin: auto;
+  
+}
+
